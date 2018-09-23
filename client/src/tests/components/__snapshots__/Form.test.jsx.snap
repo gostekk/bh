@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form Component should render Form component and match to snapshot 1`] = `
+<form
+  autoComplete="off"
+  className="Form-container-1"
+  noValidate={true}
+  onSubmit={[Function]}
+>
+  <TextField
+    className="Form-textField-2"
+    error={false}
+    fullWidth={true}
+    id="firstname"
+    label="Firstname"
+    margin="normal"
+    name="firstname"
+    onChange={[Function]}
+    required={true}
+    select={false}
+    value=""
+    variant="outlined"
+  />
+  <TextField
+    className="Form-textField-2"
+    error={false}
+    fullWidth={true}
+    id="lastname"
+    label="Lastname"
+    margin="normal"
+    name="lastname"
+    onChange={[Function]}
+    required={true}
+    select={false}
+    value=""
+    variant="outlined"
+  />
+  <TextField
+    autoComplete="email"
+    className="Form-textField-2"
+    error={false}
+    fullWidth={true}
+    id="email"
+    label="email"
+    margin="normal"
+    name="email"
+    onChange={[Function]}
+    required={true}
+    select={false}
+    type="email"
+    value=""
+    variant="outlined"
+  />
+  <TextField
+    InputLabelProps={
+      Object {
+        "shrink": true,
+      }
+    }
+    className="Form-textField-2"
+    error={false}
+    fullWidth={true}
+    id="eventdate"
+    label="Event Date"
+    margin="normal"
+    name="eventdate"
+    onChange={[Function]}
+    required={true}
+    select={false}
+    type="date"
+    value=""
+    variant="outlined"
+  />
+  <WithStyles(Button)
+    className="Form-submit-3"
+    color="primary"
+    fullWidth={true}
+    id="submit"
+    type="submit"
+    variant="raised"
+  >
+    Submit
+  </WithStyles(Button)>
+</form>
+`;

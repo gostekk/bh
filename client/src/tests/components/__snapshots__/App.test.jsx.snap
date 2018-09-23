@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component should render App component and match to snapshot 1`] = `
+<Fragment>
+  <WithStyles(CssBaseline) />
+  <main
+    className="Component-layout-1"
+  >
+    <WithStyles(Paper)
+      className="Component-paper-2"
+    >
+      <Connect(WithStyles(Form)) />
+    </WithStyles(Paper)>
+  </main>
+</Fragment>
+`;
