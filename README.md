@@ -1,6 +1,6 @@
 # BrainBack
 
-[FrontEnd readme](../blob/master/client/README.md "Frontend readme")
+[FrontEnd readme](../master/client/README.md "Frontend readme")
 
 ## Available Scripts
 
