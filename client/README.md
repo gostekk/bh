@@ -25,4 +25,4 @@ Launches the test runner in the interactive watch mode.<br>
 
 Coverage doesn't include index.js and configureStore files.
 
-[img]
+![Tests coverage](https://github.com/gostekk/bh/blob/docs/docs/clientTests.png)
